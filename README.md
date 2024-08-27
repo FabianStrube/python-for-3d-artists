@@ -15,7 +15,7 @@
 - **Workflow Optimization**: Automate repetitive tasks to save time and reduce errors.
 - **Easy to Integrate**: Simple to incorporate into existing projects and workflows.
 
-## 📦 Supported Applications
+## 📦 3D Applications
 
 This library provides Python scripts and commands tailored for the following 3D applications:
 
@@ -26,9 +26,8 @@ This library provides Python scripts and commands tailored for the following 3D 
 
 ## 📚 Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
-  - [Blender](#blender)
+  - [Blender](#Blender)
   - [Maya](#maya)
   - [Houdini](#houdini)
   - [Cinema4D](#cinema4d)
