@@ -27,16 +27,14 @@ This library provides Python scripts and commands tailored for the following 3D 
 ## 📚 Table of Contents
 
 - [Usage](#usage)
-  - [Blender](#Blender)
-  - [Maya](#maya)
-  - [Houdini](#houdini)
-  - [Cinema4D](#cinema4d)
-- [Examples](#examples)
-- [Contributing](#contributing)
+  - [Blender](/Blender)
+  - [Maya](/Maya)
+  - [Houdini](/Houdini)
+  - [Cinema4D](/Cinema4D)
 
-## 🛠️ Installation
+## 🛠️ Get Started
 
-To get started, clone the repository to your local machine:
+To get started, simply browse through the collection or clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/FabianStrube/python-for-3d-artists.git
